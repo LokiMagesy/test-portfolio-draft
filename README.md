@@ -3,8 +3,31 @@
 
 ### Test
 
-[Three Sage Monkey](/ThreeSageMonkey.md)
-[Favorite Thing](/FavoriteThing.md)
+[Three Sage Monkey](/Vault/ThreeSageMonkey.md)
+
+[Favorite Thing](/Vault/FavoriteThing.md)
+
+[Food](/Food/food.md)
+
+### Introduction
+
+I start learning coding in CEGEP. Like C# and my first language. Favorite language and coding is Flutter. 
+`Firebase`, `Java (Android)`, `Typescript (Angular)`, `Php (One Week of reading random stuff)`, `Python (AI/vibe coding)`, `HTML`, `CSS & SCSS`, `ASP.Net`,
+Two flutter project that was convert for Iphone/Apple.
+
+Favorite Moment in Coding School, one of my first website that made from scratch, crash the computer of my teacher. The reason of the crash was my animation, which i put on each character. My teacher didn't fail me, but I need to fix in a week, which study and read a lot about optimization of website and using debugging program in the browser. 
+
+Weirdness Course: the class on the program, DOCK, because the teacher and curriculum was optimal, and need to learn outside of class. The teacher was absence majority of time, and asking question wasn't a option. The curriculum was old one. At the end, it did leave a bad impression on DOCK, today i can make it work, something i don't fully understand and try avoided in general.
+
+My biggest weakness is my introvert nature. As an introvert, i hate change, trying to new stuff scare me a bit, but stress me a lot. Social Anxiety: I don't know to socialize and my weirdness, but learn to hided quite well.
+
+My only strength is my perseverance, but each year pass it become more selective in what i am perseverance about.
+
+What I think people think of me: Weird dude that start talking random stuff.
+
+What I think of myself: A ball of Stress and perseverance that I hate losing, trying to be right at everything and a weird introvert.
+
+What I hope people and myself think of me: Not an idiot, a friend if possible, and someone that wanted silence (Silence Friend Type).
 
 ### My First CV from school day
 
@@ -15,16 +38,16 @@ Telephone fixe : 438-228-9850 (Qui utilise encore un téléphone fixe ?)
 Telepghone mobile : 1-154-576-1398 
 Courriel : hoiluncheng@hotmail.com
 
-Compétences
+### Compétences/Skill
 ⦁	Langues : français, anglais et connaissances de base en Chinois
 ⦁	(course teenage year) Sondage (Semi automatique) et Montage
 ⦁	Logicie : Word, Power Point, Google Doc (LOL)
 ⦁	Formation : École Entreprise Prince-Dvly (Secondaire)
+⦁	CEGEP Edouard mont-petit: Informatique Programmation 
 
-## EXPÉRIENCES DE TRAVAIL 
+## EXPÉRIENCES DE TRAVAIL
 
-### Work
-
+### WORK
 I was sixteen when work became routine instead of obligation. Before then, I had always been helping my parents. After that, the hours simply became longer.
 
 The restaurant never really closed. There was always another plate to wash. Another tray to refill. Another floor to clean before the lights went out.
